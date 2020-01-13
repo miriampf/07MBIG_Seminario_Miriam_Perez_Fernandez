@@ -1,3 +1,12 @@
 h1, h2 {
   font-family: Lato;
 }
+div{
+  float: none;
+} 
+
+div#viz,div#viz2,div#viz3,div#viz4 {
+  height: 300px;
+  width: 300px;
+  float:left;
+}
